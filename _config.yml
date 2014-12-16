@@ -1,0 +1,5 @@
+permalink: /:year/:month/:title/
+
+highlighter: pygments
+paginate: 8
+encoding: utf-8
