@@ -1,5 +1,28 @@
-permalink: /:year/:month/:title/
+# Permalinks
+permalink:        /:year/:month/:title/
 
-highlighter: pygments
-paginate: 8
-encoding: utf-8
+# Local
+highlighter:      pygments
+encoding:         utf-8
+
+# Dependencies
+markdown:         kramdown
+#pygments:         true
+
+# Setup
+title:            '超哥B'
+tagline:          '自由的邮递员'
+description:      '自由的邮递员'
+url:              http://chaogeb.com
+
+author:
+  name:           '超哥B'
+  email:          procg@outlook.com
+  url:            http://chaogeb.com
+
+paginate:         8
+
+# Custom vars
+
+github:
+  repo:           https://github.com/chaogeb

@@ -1,8 +1,8 @@
 ---
-layout: 
-title: "青春的脚步"
+layout: post
+title: 青春的脚步
 description: 
-category: "随笔"
+category: 随笔
 tags: ["火车","青春"]
 ---
 
