@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 青春的脚步
 description: 
 category: 随笔
