@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<!-- 遍历分页后的文章 -->
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -12,7 +13,9 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}   {{ post.tags }}</span>
+    <span class="post-date">
+	  {{ post.date | date_to_long_string }}   {{ post.tags }}
+	</span>
 
     {{ post.excerpt }}
   </div>
