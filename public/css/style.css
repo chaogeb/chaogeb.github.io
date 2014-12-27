@@ -1,0 +1,24 @@
+/*  Back Top Button  */
+#back-top {
+  position: fixed;
+  bottom: 5%;
+  margin-left: 90%;
+}
+#back-top a {
+  width: 2.75rem;
+  height: 2.75rem;
+  display: block;
+  background: #ddd url(/public/bg_up_arrow.png) no-repeat center center;
+  background-color: #aaa;
+  opacity:0.5;
+  -webkit-border-radius: 0.5rem;
+  -moz-border-radius: 0.5rem;
+  border-radius: 0.5rem;
+  -webkit-transition: 1s;
+  -moz-transition: 1s;
+  transition: 1s;
+}
+#back-top a:hover {
+  background-color: #777;
+  opacity:1;
+}
