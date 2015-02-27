@@ -4,6 +4,11 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
+  <style type="text/css">
+  img{
+    margin-top:3em;
+  }
+  </style>
   <p align="center"><img src="/icons/apple-touch-icon-precomposed.png" alt="Logo"/></p>
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
@@ -33,7 +38,7 @@
 
   <div class="sidebar-item">
     <p>
-      &copy; 2014{% if site.time.year > 2014 %}-{ site.time | date: '%Y' }}{% endif %}. All rights reserved.
+      &copy; 2014-{{ site.time | date: '%Y' }}. All rights reserved.
     </p>
   </div>
 </div>
