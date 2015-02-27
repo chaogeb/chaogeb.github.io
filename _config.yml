@@ -3,7 +3,7 @@ permalink:        /:year/:month/:title/
 #relative_permalinks: true
 
 # Local
-highlighter:      true
+highlighter:      pygments
 encoding:         utf-8
 
 # Dependencies
