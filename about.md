@@ -5,10 +5,10 @@ slug: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This page is not ready yet. <a href="/">Head back home</a> to see more.
 </p>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+  
 
 ## Setup
 
