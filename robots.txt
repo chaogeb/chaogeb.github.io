@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /files/
 Disallow: /icons/
 
-Sitemap: <http://chaogeb.com/sitemap.xml>
+Sitemap: http://chaogeb.com/sitemap.xml
