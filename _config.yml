@@ -3,12 +3,11 @@ permalink:        /:year/:month/:title/
 #relative_permalinks: true
 
 # Local
-highlighter:      pygments
+highlighter:      rouge
 encoding:         utf-8
 
 # Dependencies
 markdown:         kramdown
-#pygments:         true
 
 # Setup
 title:            '超哥B'
