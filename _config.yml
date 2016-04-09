@@ -5,9 +5,11 @@ permalink:        /:year/:month/:title/
 # Local
 highlighter:      rouge
 encoding:         utf-8
+gems:             [jekyll-paginate]
 
 # Dependencies
 markdown:         kramdown
+toc_levels:       2..3
 
 # Setup
 title:            '超哥B'
